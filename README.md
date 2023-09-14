@@ -11,4 +11,4 @@ D0957782林勝幅HW4.exe test.asm output.txt
 ```
 4. Open `output.txt` and you will see the object code.
 * example:  
-![demo](https://github.com/rex0988476/Python/blob/main/Taiko_Tournament_Tools/mp_link_to_score/README/mpscore.png)
+![demo](https://github.com/rex0988476/Assembler/blob/main/README/test.png)
